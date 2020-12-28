@@ -1,22 +1,22 @@
 [
   {
     "name": "Main Website",
-    "url": "https://bimbala.com.com",
-    "icon": "https://favicons.githubusercontent.com/bimbala.com.com",
+    "url": "https://bimbala.com",
+    "icon": "https://favicons.githubusercontent.com/bimbala.com",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "30.41%",
-    "uptimeDay": "30.41%",
-    "uptimeWeek": "30.41%",
-    "uptimeMonth": "30.41%",
-    "uptimeYear": "30.41%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.97%",
+    "uptimeDay": "1.97%",
+    "uptimeWeek": "1.97%",
+    "uptimeMonth": "1.97%",
+    "uptimeYear": "1.97%",
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 6
     }
   }
 ]
