@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/bimbala.com",
     "slug": "main-website",
     "status": "up",
-    "uptime": "1.97%",
-    "uptimeDay": "1.97%",
-    "uptimeWeek": "1.97%",
-    "uptimeMonth": "1.97%",
-    "uptimeYear": "1.97%",
-    "time": 403,
-    "timeDay": 403,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "uptime": "61.79%",
+    "uptimeDay": "61.79%",
+    "uptimeWeek": "61.79%",
+    "uptimeMonth": "61.79%",
+    "uptimeYear": "61.79%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2020-12-28": 6
+      "2020-12-28": 7
     }
   }
 ]
