@@ -1,7 +1,7 @@
 url: https://bimbala.com
-status: up
-code: 200
-responseTime: 863
-lastUpdated: 2021-08-01T14:44:54.504Z
+status: down
+code: 500
+responseTime: 465
+lastUpdated: 2021-08-01T14:53:37.848Z
 startTime: Mon Dec 28 2020 16:51:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
